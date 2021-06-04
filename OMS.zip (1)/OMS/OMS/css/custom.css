@@ -1,0 +1,18 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background: #f3f3f3;
+}
+.login-bg{
+	background-image: url(../images/login-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.error { 
+	color: red;
+	width: 100%;
+	 }
+.is-invalid{
+	width: 100% !important;
+}
